@@ -2,14 +2,28 @@
 Terminal: kitty
 Editor: vim / sublime text / vscode
 Mutiplexer: tmux / screen
-
-Doc them
-- SSH
+Shell: zsh / bash / ...
+Authentication: ssh (optional)
 
 Game
-- Ngon ngu lap trinh: C++
+
+- Ngon ngu lap trinh: C++, python
 - git va github, repository
 - Cau truc du lieu va giai thuat (Data structure and Algorithm)
 - Lap trinh huong doi tuong (OOP - Object Oriented Programming)
 - Lap trinh thread, network
+- mobile
+  - ios: swift / objective-C
+  - android: java
+- database: MS Access, postgresql, mysql
 
+Others:
+- English
+
+MOST IMPORTANT: Goals (3 months, 6 months, 1 year, etc...)
+
+Example
+- https://github.com/gameprogcpp/code
+- https://cplusplus.happycodings.com/games/index.html
+- https://www.youtube.com/results?search_query=competitive+programming
+- Quan ly thu vien / quan ly hoc sinh
