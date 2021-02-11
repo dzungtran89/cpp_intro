@@ -1,0 +1,15 @@
+
+Terminal: kitty
+Editor: vim / sublime text / vscode
+Mutiplexer: tmux / screen
+
+Doc them
+- SSH
+
+Game
+- Ngon ngu lap trinh: C++
+- git va github, repository
+- Cau truc du lieu va giai thuat (Data structure and Algorithm)
+- Lap trinh huong doi tuong (OOP - Object Oriented Programming)
+- Lap trinh thread, network
+
